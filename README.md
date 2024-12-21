@@ -6,6 +6,6 @@ Skills:
 
 * 📚 On hand: C/C++, Python, Java
 
-* 👩‍💻 Currently learning: HTML and CSS
+* 👩‍💻 Currently learning: HTML, CSS, JavaScript
 
 📧 For professional opportunities/inquiries, please email me at pmanio@uci.edu or maniophillipe@gmail.com

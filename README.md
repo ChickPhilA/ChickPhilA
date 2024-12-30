@@ -8,4 +8,8 @@ Skills:
 
 * 👩‍💻 Currently learning: HTML, CSS/Tailwind CSS, JavaScript
 
+Projects:
+
+* 💭 Future/Prospective Projects: Personal Portfolio
+
 📧 For professional opportunities/inquiries, please email me at pmanio@uci.edu or maniophillipe@gmail.com

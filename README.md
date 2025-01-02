@@ -4,9 +4,9 @@
 
 Skills:
 
-* 📚 On hand: C/C++, Python, Java
+* 📚 On hand: C/C++, Python, Java, HTML
 
-* 👩‍💻 Currently learning: HTML, CSS/Tailwind CSS, JavaScript
+* 👩‍💻 Currently learning: CSS/Tailwind CSS, JavaScript
 
 Projects:
 

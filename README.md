@@ -10,6 +10,6 @@ Skills:
 
 Projects:
 
-* 💭 Future/Prospective Projects: Personal Portfolio
+* 💭 Future/Prospective Projects: Personal Portfolio, Word Bomb(?)
 
 📧 For professional opportunities/inquiries, please email me at pmanio@uci.edu or maniophillipe@gmail.com

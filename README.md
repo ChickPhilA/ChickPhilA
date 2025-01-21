@@ -11,9 +11,9 @@ Skills:
 Projects:
 
 * 💭 Future/Prospective Projects:
-  * Personal Portfolio
+  * 📄 Personal Portfolio
       * A website that exhibits my academic experience, prowess and skills, and my projects.
-  * Word Bomb
+  * ⏱️💣 Word Bomb
       * A 2-player VS game where players must type in a word associated with a given topic before the timer runs out.
 
 📧 For professional opportunities/inquiries, please email me at pmanio@uci.edu or maniophillipe@gmail.com

@@ -6,7 +6,7 @@ Skills:
 
 * 📚 On hand: C/C++, Python, Java, HTML
 
-* 👩‍💻 Currently learning: CSS/Tailwind CSS, JavaScript
+* 👩‍💻 Currently learning: CSS/Tailwind CSS, JavaScript, React
 
 Projects:
 

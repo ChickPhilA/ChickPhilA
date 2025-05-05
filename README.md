@@ -16,7 +16,7 @@ Projects:
   * ⏱️💣 Word Bomb
       * A 2-player VS game where players must type in a word associated with a given topic before the timer runs out.
 
-🤭 Fun facts about me:
+🤯 Fun facts about me:
 
 * I love Charlie Burg and am among the top 0.1% of his listeners on Spotify (ask me about my music taste!)
 * I keep a spreadsheet of all coffee shops I go to and rate them

@@ -18,7 +18,7 @@ Projects:
 
 🤭 Fun facts about me:
 
-* I love Charlie Burg and am 0.1% of his listeners on Spotify (ask me about my music taste!)
+* I love Charlie Burg and am among the top 0.1% of his listeners on Spotify (ask me about my music taste!)
 * I keep a spreadsheet of all coffee shops I go to and rate them
 * I ate a bowl of ramen every week when I was still in community college
 

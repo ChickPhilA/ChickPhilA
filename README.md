@@ -13,8 +13,6 @@ Projects:
 * 💭 Future/Prospective Projects:
   * 📄 Personal Portfolio
       * A website that exhibits my academic experience, prowess and skills, and my projects.
-  * ⏱️💣 Word Bomb
-      * A 2-player VS game where players must type in a word associated with a given topic before the timer runs out.
 
 🤯 Fun facts about me:
 

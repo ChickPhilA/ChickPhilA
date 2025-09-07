@@ -12,7 +12,7 @@ Projects:
 
 * 💭 Future/Prospective Projects:
   * 📄 Personal Portfolio
-      * A website that exhibits my academic experience, prowess and skills, and my projects.
+      * A website that exhibits my academic experience, prowess/skills, projects, and miscellaneous information.
 
 🤯 Fun facts about me:
 

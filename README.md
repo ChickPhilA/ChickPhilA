@@ -4,7 +4,7 @@
 
 Skills:
 
-* 📚 On hand: C/C++, Python, Java, HTML, CSS, JavaScript, Git/GitHub (Version Control)
+* 📚 On hand: C/C++, Python, Java, HTML, CSS, JavaScript, Git/GitHub (Version Control), MySQL, PostgreSQL
 
 * 👩‍💻 Currently learning: More JavaScript, Node.js, React, and many, many things!
 

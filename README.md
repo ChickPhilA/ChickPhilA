@@ -19,6 +19,6 @@ Projects:
 * I love Charlie Burg and am among the top 0.1% of his listeners on Spotify (ask me about my music taste!)
 * I keep a spreadsheet of all coffee shops I go to and rate them
 * I've played all Pokemon games except Black 2/White 2 (actually playing right now!)
-* I used to eat a bowl of tonkotsu ramen every week when I was still in community college (always stay hydrated!)
+* I used to eat a bowl of tonkotsu ramen every week when I was still in community college (please don't do this, always stay hydrated!)
 
 📧 For professional opportunities/inquiries, please email me at pmanio@uci.edu or maniophillipe@gmail.com

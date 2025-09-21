@@ -21,4 +21,4 @@ Projects:
 * I've played all Pokemon games except Black 2/White 2 (actually playing right now!)
 * I used to eat a bowl of tonkotsu ramen every week when I was still in community college (please don't do this, always stay hydrated!)
 
-📧 For professional opportunities/inquiries, please email me at pmanio@uci.edu or maniophillipe@gmail.com
+📧 For professional opportunities/inquiries or just to chat about anything, please email me at pmanio@uci.edu or maniophillipe@gmail.com

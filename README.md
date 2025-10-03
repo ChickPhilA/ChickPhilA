@@ -14,7 +14,7 @@ Projects:
   * 📄 Personal Portfolio
       * A website that exhibits my academic experience, prowess/skills, projects, and miscellaneous information.
   * ☕️🗺️ CoffeeLogs
-      * Coming soon!
+      * My debut project... 🤫 Coming soon!
 
 🤯 Fun facts about me:
 

@@ -1,6 +1,6 @@
 👋 Hi! My name is Phil. I am a Computer Science alumnus of the University of California, Irvine. :-) 
 
-👀 My interests are focused on Web Development and Full Stack Development and are learning these via The Odin Project. I am always willing to learn something new! (at the cost of coffee)
+👀 My interests are focused on Web Development and Full Stack Development and are learning these via The Odin Project. I am always willing to learn something new in order to create innovative solutions that solve practical or real-world solutions, no matter how big or small the impact is. (Give me a cup of coffee please and I'll get to work 🥱)
 
 Skills:
 

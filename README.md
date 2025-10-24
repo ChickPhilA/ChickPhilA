@@ -11,7 +11,7 @@ Skills:
 Projects:
 
 * 💭 Future/Prospective Projects:
-  * 📄 Personal Portfolio
+  * 📄 Personal Portfolio (IN PROGRESS)
       * A website that exhibits my academic experience, prowess/skills, projects, and miscellaneous information.
   * ☕️🗺️ CoffeeLogs (tentative name)
       * My debut project... 🤫 Coming soon!

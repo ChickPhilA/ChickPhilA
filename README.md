@@ -10,11 +10,12 @@ Skills:
 
 Projects:
 
-* 💭 Future/Prospective Projects:
-  * 📄 Personal Portfolio (IN PROGRESS)
+  * 📄 Personal Portfolio
       * A website that exhibits my academic experience, prowess/skills, projects, and miscellaneous information.
-  * ☕️🗺️ OC CoffeeLogs (tentative name)
-      * My debut project... 🤫 Coming soon!
+ 
+  * 💭 Future/Prospective Projects:
+      * ☕️🗺️ OC CoffeeLogs (tentative name)
+          * My debut project... 🤫 Coming soon!
 
 🤯 Fun facts about me:
 

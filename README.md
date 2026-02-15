@@ -8,10 +8,9 @@ Skills:
 
 * 👩‍💻 Currently learning: More JavaScript, Node.js, React, Express.js, and many, many things!
 
-Projects:
-
-  * 📄 Personal Portfolio
-      * A website that exhibits my academic experience, prowess/skills, projects, and miscellaneous information.
+  * 🗂️ Projects:
+      * 📄 Personal Portfolio
+          * A website that exhibits my academic experience, prowess/skills, projects, and miscellaneous information.
  
   * 💭 Future/Prospective Projects:
       * ☕️🗺️ OC CoffeeLogs (tentative name)

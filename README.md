@@ -1,5 +1,7 @@
 👋 Hi! My name is Phil. I am a Computer Science alumnus of the University of California, Irvine. :-) 
 
+☕️ I am currently a Barista at Starbucks, where I’ve developed strong communication and fast-paced problem-solving skills while pursuing my passion for software development.
+
 👀 My interests are focused on Web Development and Full Stack Development and are learning these via The Odin Project. I am always willing to learn something new in order to create innovative solutions that solve practical or real-world solutions, no matter how big or small the impact is. (Give me a cup of coffee please and I'll get to work 🥱)
 
 Skills:

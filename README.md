@@ -13,8 +13,8 @@ Skills:
           * A website that exhibits my academic experience, prowess/skills, projects, and miscellaneous information.
  
   * 💭 Future/Prospective Projects:
-      * ☕️🗺️ OC CoffeeLogs (tentative name)
-          * My debut project... 🤫 Coming soon!
+      * 💸📊 Paycheck Allocation Tool
+      * ☕️📆 Starbucks Product Shelf Life Resource
 
 🤯 Fun facts about me:
 

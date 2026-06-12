@@ -10,14 +10,6 @@ Skills:
 
 * 👩‍💻 Currently learning: More JavaScript, Node.js, React, Express.js, and many, many things!
 
-  * 🗂️ Projects:
-      * 📄 Personal Portfolio
-          * A website that exhibits my academic experience, prowess/skills, projects, and miscellaneous information.
- 
-  * 💭 Future/Prospective Projects:
-      * 💸📊 Paycheck Allocation Tool
-      * ☕️📆 Starbucks Product Shelf Life Resource
-
 🤯 Fun facts about me:
 
 * I love Charlie Burg and am among the top 0.1% of his listeners on Spotify (ask me about my music taste!)

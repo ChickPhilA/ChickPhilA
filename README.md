@@ -4,11 +4,9 @@
 
 👀 I am always willing to learn something new in order to create innovative solutions that solve practical or real-world solutions, no matter how big or small the impact is. (Give me a cup of coffee please and I'll get to work 🥱)
 
-Skills:
+My current skills:
 
-* 📚 On hand: C/C++, Python, Java, HTML, CSS/Tailwind CSS, JavaScript, Git/GitHub (Version Control), MySQL, PostgreSQL
-
-* 👩‍💻 Currently learning: More JavaScript, Node.js, React, Express.js, and many, many things!
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,mysql,postgres,git,github,aws)](https://skillicons.dev)
 
 🤯 Fun facts about me:
 

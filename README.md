@@ -4,7 +4,7 @@
 
 My current skills:
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,mysql,postgres,git,github,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,mysql,postgres,supabase,git,github,aws)](https://skillicons.dev)
 
 🤯 Fun facts about me:
 

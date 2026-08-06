@@ -6,7 +6,7 @@ My current skills:
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,ts,react,mysql,postgres,supabase,git,github,aws)](https://skillicons.dev)
 
-Projects in progress:
+Projects created:
 * TalkOverTheTable - A full stack forum app where foodies united and discuss about anything, food related.
 
 🤯 Fun facts about me:

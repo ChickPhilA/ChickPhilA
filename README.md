@@ -6,9 +6,6 @@ My current skills:
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,ts,react,express,mysql,postgres,supabase,git,github,aws)](https://skillicons.dev)
 
-Projects created:
-* TalkOverTheTable - A full stack forum app where foodies united and discuss about anything, food related.
-
 🤯 Fun facts about me:
 
 * I love Charlie Burg and am among the top 0.1% of his listeners on Spotify (ask me about my music taste!)

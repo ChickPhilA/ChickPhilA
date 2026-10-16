@@ -1,4 +1,4 @@
-👋 Hi! My name is Phil. I am a Computer Science alumnus of the University of California, Irvine. :-) I am also currently an AI Engineering and Web Development Fellow through CodePath!
+👋 Hi! My name is Phil. I am a Computer Science alumnus of the University of California, Irvine. :-) I am also currently a Web Development Fellow through CodePath!
 
 ☕️ I am currently a Barista at Starbucks, where I’ve developed strong communication and fast-paced problem-solving skills, while pursuing my passion for software development and actively searching for roles.
 
